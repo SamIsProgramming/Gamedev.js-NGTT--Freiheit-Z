@@ -4,7 +4,8 @@ extends CharacterBody2D
 @export var speed = 500.0
 @export var jump_velocity = -400.0
 @onready var ray_cast_2d: RayCast2D = $RayCast2D
-const PROJECTILE = preload("uid://dbnijstff0fso")
+const PROJECTILE = preload("uid://cnkqew0aypngp")
+
 
 
 
